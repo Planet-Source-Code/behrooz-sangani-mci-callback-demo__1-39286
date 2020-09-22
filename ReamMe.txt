@@ -1,0 +1,32 @@
+================================================================
+  MCI Callback Demo
+  Demonstrates using callback notification of MCI
+================================================================
+  Created By: Behrooz Sangani <bs20014@yahoo.com>
+  Published Date: 26/09/2002
+  WebSite: http://www.geocities.com/bs20014
+  Legal Copyright: Behrooz Sangani © 26/09/2002
+=================================================================
+
+==========
+Copyright
+==========
+
+Feel free to use in your applications and give credit if you like
+If you want to redistribute this project on any
+kind of media or on the net you must distribute it
+as is and unmodified and you must not earn money from
+this sample.
+
+Comments are appreciated. Please send feedback to the email above
+
+
+===========
+Explanation
+===========
+
+This application demonstrates MCI callback messages I wrote this 
+example as a response to a question on PSC (www.planet-source-code.com) 
+forum because I was unable to find any example of this feature 
+included in MCI. This demo also includes basic MCI functions to play 
+almost all media formats from mp3 to qt (QuickTime).
